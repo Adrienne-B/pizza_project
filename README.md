@@ -83,8 +83,11 @@ a online pizza website.
 Visual Studio Code and react.js
 
 ### What I learn:
-I am understanding the basics of react.js: components, app.js, renders, routers, routers (old version was switch), imports (very important), and
+1. I am understanding the basics of react.js: components, app.js, renders, routers, routers (old version was switch), imports (very important), and
 adding a template/background image(not using css for this effect).
+
+2. I learn a short annotation to install and save which is 
+ npm react i s
 
 
 #### Random Unexpected Challenges:
@@ -97,7 +100,7 @@ adding a template/background image(not using css for this effect).
 4. Icons 
 
 #### Solutions/solving the issue:
-1. 
+1. I was You were installing latest version so I change that to version 5 i.e npm i react-router-dom to npm i react-router-dom@^5
 2. I have to make sure to import pages and/or components
 3. I had to downgrade the version for this project since switch was used. If I had of used routes then I would not have to downgrade the version
 4. I had to get the latest version of icons and emotions off of mui website by copying and pasting the latest and importing into App.js
