@@ -107,4 +107,4 @@ adding a template/background image(not using css for this effect).
 1.	Still a beginner a react
 
 
-##### Credited: https://www.youtube.com/watch?v=QwarZBtFoFA&t=1108s
+##### Credited: https://www.youtube.com/watch?v=QwarZBtFoFA&t=1108s AND https://github.com/machadop1407/react-website-tutorial
