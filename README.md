@@ -88,7 +88,8 @@ adding a template/background image(not using css for this effect).
 
 2. I learn a short annotation to install and save which is 
  npm react i s
-
+ 
+3. rfce + enter automatically puts in template component quickly without having to manually do it.
 
 #### Random Unexpected Challenges:
 ### I understand that any small error will NOT allow the react app to display on the browswer. 
