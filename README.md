@@ -68,3 +68,47 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+<!---->
+
+# Pizza Project
+
+
+## Summary
+This was a personal project I wanted to do to practice on the react software. I followed a youtube video which helped me to create
+a online pizza website.
+
+### Software used:
+Visual Studio Code and react.js
+
+### What I learn:
+1. I am understanding the basics of react.js: components, app.js, renders, routers, routers (old version was switch), imports (very important), and
+adding a template/background image(not using css for this effect).
+
+2. I learn a short annotation to install and save which is 
+ npm react i s
+ 
+3. rfce + enter automatically puts in template component quickly without having to manually do it.
+
+#### Random Unexpected Challenges:
+### I understand that any small error will NOT allow the react app to display on the browswer. 
+    For this particular projects there were minor issues that caused this problem.
+    
+1. There was an issue with installing the react-route dom.
+2. forgot to import pages and/or components at the top of the App.js.
+3. Because I was watching an older react youtube video, Switch was used and not route.
+4. Icons 
+
+#### Solutions/solving the issue:
+1. I was You were installing latest version so I change that to version 5 i.e npm i react-router-dom to npm i react-router-dom@^5
+2. I have to make sure to import pages and/or components
+3. I had to downgrade the version for this project since switch was used. If I had of used routes then I would not have to downgrade the version
+4. I had to get the latest version of icons and emotions off of mui website by copying and pasting the latest and importing into App.js
+
+
+#### Weakness so far:
+1.	Still a beginner a react
+
+
+##### Credited: https://www.youtube.com/watch?v=QwarZBtFoFA&t=1108s AND https://github.com/machadop1407/react-website-tutorial
