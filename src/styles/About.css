@@ -23,7 +23,11 @@
   }
   
   .aboutBottom p {
-    width: 1200px;
+    margin-bottom: 73px;
+    margin-top: -23px;
+    word-break: break-all;
+    width: 75%;
+   /* width: 1200px;*/
   }
   
   .about .aboutBottom h1 {
