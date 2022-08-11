@@ -14,4 +14,4 @@ export default MenuItem;
 
 //rfce + enter automatically puts in template component
 
-//This page will accept props, and render ui based on those props
+//This page will accept props, and render ui based on those propsgit 
